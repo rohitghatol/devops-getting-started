@@ -1,15 +1,70 @@
-.header1{
-    font-size:40pt
-}
-
-.header2{
-
-}
-
-.header3{
+header h1{
+    padding-top:20px;
+    font-size:40pt;
+    position:fixed;
+    top:0px;
+    height:200px;
+    width:90%;
 
 }
 
-.bold{
+.fixed-top{
+
+}
+
+section{
+    padding:20px;
+}
+
+section h3{
+    font-size:28pt
+}
+section h3{
+    font-size:24pt
+}
+
+
+footer h3{
+    font-size:28pt
+}
+
+.center-middle{
+    position:fixed;
+    top:20%;
+}
+
+.right{
+    display:inline-block;
+
+}
+.fixed-bottom{
+    position:fixed;
+    bottom:0px;
+    height:100px;
+    width:90%;
+}
+
+.fixed-bottom hr{
+    border: 1px solid yellow
+}
+
+figure.banner img{
+    height:50%;
+}
+
+figure.small-banner img{
+    height:40%;
+    padding-left:45%;
+
+}
+
+
+figure.logo{
+    width:100%;
+    text-align: center;
+}
+figure.logo img{
+    padding-top:10px;
+    width:300px;
 
 }

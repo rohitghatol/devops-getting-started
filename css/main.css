@@ -33,9 +33,8 @@ footer h3{
     top:20%;
 }
 
-.right{
+.inline{
     display:inline-block;
-
 }
 .fixed-bottom{
     position:fixed;
@@ -53,9 +52,7 @@ figure.banner img{
 }
 
 figure.small-banner img{
-    height:40%;
-    padding-left:45%;
-
+    height:450px;
 }
 
 

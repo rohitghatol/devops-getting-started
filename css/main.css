@@ -33,6 +33,11 @@ footer h3{
     top:20%;
 }
 
+.center-top{
+    position:fixed;
+    top:10%;
+}
+
 .inline{
     display:inline-block;
 }
@@ -49,6 +54,10 @@ footer h3{
 
 figure.banner img{
     height:50%;
+}
+
+figure.banner2 img{
+    height:80%;
 }
 
 figure.small-banner img{

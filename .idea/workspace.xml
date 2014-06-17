@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fddf5a5-326b-4ff6-8105-4b376dc1e91d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/What-DevOps-is-Not.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/expect-delays.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="devops-getting-started.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,7 +29,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="163" column="36" selection-start="5690" selection-end="5690" vertical-scroll-proportion="0.54268295" vertical-offset="2089" max-vertical-offset="3045">
+            <state line="204" column="16" selection-start="6936" selection-end="6936" vertical-scroll-proportion="0.51981705" vertical-offset="2719" max-vertical-offset="3690">
               <folding />
             </state>
           </provider>
@@ -57,7 +54,7 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="9" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="327" max-vertical-offset="1215">
+            <state line="62" column="14" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="327" max-vertical-offset="1290">
               <folding />
             </state>
           </provider>
@@ -579,14 +576,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="9" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="327" max-vertical-offset="1215">
+        <state line="62" column="14" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="327" max-vertical-offset="1290">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="163" column="36" selection-start="5690" selection-end="5690" vertical-scroll-proportion="0.54268295" vertical-offset="2089" max-vertical-offset="3045">
+        <state line="204" column="16" selection-start="6936" selection-end="6936" vertical-scroll-proportion="0.51981705" vertical-offset="2719" max-vertical-offset="3690">
           <folding />
         </state>
       </provider>

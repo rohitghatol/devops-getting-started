@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fddf5a5-326b-4ff6-8105-4b376dc1e91d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/impress.css" afterPath="$PROJECT_DIR$/css/impress.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
     </list>
     <ignored path="devops-getting-started.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="354" column="16" selection-start="11908" selection-end="11908" vertical-scroll-proportion="0.0952381" vertical-offset="5250" max-vertical-offset="12390">
+            <state line="358" column="51" selection-start="12078" selection-end="12078" vertical-scroll-proportion="0.7380952" vertical-offset="4905" max-vertical-offset="12420">
               <folding>
                 <element signature="n#style#0;n#b#0;n#li#0;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#b#0;n#li#1;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -659,7 +657,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="354" column="16" selection-start="11908" selection-end="11908" vertical-scroll-proportion="0.0952381" vertical-offset="5250" max-vertical-offset="12390">
+        <state line="358" column="51" selection-start="12078" selection-end="12078" vertical-scroll-proportion="0.7380952" vertical-offset="4905" max-vertical-offset="12420">
           <folding>
             <element signature="n#style#0;n#b#0;n#li#0;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#0;n#li#1;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />

@@ -64,6 +64,14 @@ figure.banner3 img{
     height:60%;
 }
 
+figure.banner4 img{
+    height:15%;
+    margin: 0;
+}
+
+.para{
+    font-size: 14pt;
+}
 
 figure.small-banner img{
     height:450px;

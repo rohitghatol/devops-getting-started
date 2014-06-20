@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fddf5a5-326b-4ff6-8105-4b376dc1e91d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Vagrant-Diagram.png" afterPath="$PROJECT_DIR$/images/Vagrant-Diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/question-1.png" afterPath="$PROJECT_DIR$/images/question-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/question-2.png" afterPath="$PROJECT_DIR$/images/question-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/question-3.png" afterPath="$PROJECT_DIR$/images/question-3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/question-4.png" afterPath="$PROJECT_DIR$/images/question-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/question-5.png" afterPath="$PROJECT_DIR$/images/question-5.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="devops-getting-started.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,10 +33,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="436" column="34" selection-start="14545" selection-end="14545" vertical-scroll-proportion="0.64285713" vertical-offset="6135" max-vertical-offset="12435">
+            <state line="500" column="34" selection-start="17060" selection-end="17060" vertical-scroll-proportion="-3.125" vertical-offset="7425" max-vertical-offset="12510">
               <folding>
                 <element signature="n#style#0;n#b#0;n#li#0;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#b#0;n#li#1;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -37,6 +45,13 @@
                 <element signature="n#style#0;n#b#0;n#li#4;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="puppet.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/puppet.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -50,16 +65,16 @@
       <file leaf-file-name="impress.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/impress.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="10" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="10590">
+            <state line="32" column="0" selection-start="919" selection-end="921" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="10590">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="17" selection-start="739" selection-end="739" vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="1410">
+            <state line="71" column="13" selection-start="747" selection-end="747" vertical-scroll-proportion="0.52380955" vertical-offset="702" max-vertical-offset="1455">
               <folding />
             </state>
           </provider>
@@ -95,8 +110,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/css/impress.css" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -131,7 +146,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -194,6 +208,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,14 +229,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -232,15 +239,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -311,6 +326,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="375" column="34" selection-start="12596" selection-end="12596" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12420">
@@ -667,21 +689,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/impress.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="10" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="10590">
+        <state line="32" column="0" selection-start="919" selection-end="921" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="10590">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="17" selection-start="739" selection-end="739" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1410">
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/images/puppet.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="436" column="34" selection-start="14545" selection-end="14545" vertical-scroll-proportion="0.64285713" vertical-offset="6135" max-vertical-offset="12435">
+        <state line="500" column="34" selection-start="17060" selection-end="17060" vertical-scroll-proportion="-3.125" vertical-offset="7425" max-vertical-offset="12510">
           <folding>
             <element signature="n#style#0;n#b#0;n#li#0;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#0;n#li#1;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -689,6 +709,13 @@
             <element signature="n#style#0;n#b#0;n#li#3;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#0;n#li#4;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="13" selection-start="747" selection-end="747" vertical-scroll-proportion="0.52380955" vertical-offset="702" max-vertical-offset="1455">
+          <folding />
         </state>
       </provider>
     </entry>

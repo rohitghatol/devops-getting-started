@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fddf5a5-326b-4ff6-8105-4b376dc1e91d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diagrams/diagrams.pptx" afterPath="$PROJECT_DIR$/diagrams/diagrams.pptx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="devops-getting-started.iws" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="540" column="34" selection-start="18359" selection-end="18359" vertical-scroll-proportion="0.13109756" vertical-offset="8014" max-vertical-offset="12510">
+            <state line="620" column="34" selection-start="20929" selection-end="20929" vertical-scroll-proportion="0.3140244" vertical-offset="9094" max-vertical-offset="12510">
               <folding>
                 <element signature="n#style#0;n#b#0;n#li#0;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#b#0;n#li#1;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -687,7 +686,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="540" column="34" selection-start="18359" selection-end="18359" vertical-scroll-proportion="0.13109756" vertical-offset="8014" max-vertical-offset="12510">
+        <state line="620" column="34" selection-start="20929" selection-end="20929" vertical-scroll-proportion="0.3140244" vertical-offset="9094" max-vertical-offset="12510">
           <folding>
             <element signature="n#style#0;n#b#0;n#li#0;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#0;n#li#1;n#ul#0;n#section#0;n#section#33;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
